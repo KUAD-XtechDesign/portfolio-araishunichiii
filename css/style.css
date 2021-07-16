@@ -286,3 +286,6 @@ report
   flex: 1;
  }
  
+ .outline .pic iframe {
+   width: 100%;
+ }
